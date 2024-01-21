@@ -1,8 +1,8 @@
 # golang-levenshtein
 ==========
 Provide 2 main functions:
-1 . Get 2 strings edit distance: LevenshteinDistance
-2 . Get 2 strings edit operation list: LevenshteinEditOps
+#1 . Get 2 strings edit distance: LevenshteinDistance
+#2 . Get 2 strings edit operation list: LevenshteinEditOps
 
 ## Installation
 
