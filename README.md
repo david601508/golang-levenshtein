@@ -16,7 +16,7 @@ Diffs are configured with Unified (or ContextDiff) structures, and can
 be output to an io.Writer or returned as a string.
 
 ```Go
-	ops := LevenshteinEditOps("Come on", "Came on")
+  ops := LevenshteinEditOps("Come on", "Came on")
   editCount := LevenshteinDistance("Come on", "Came on")
 ```
 
